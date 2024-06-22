@@ -230,7 +230,7 @@ padding: 0px;
 
 /* whatsapp-widget start */
 .whatsapp-widget img {
-            width: 50px;
+            width: 60px;
             height: auto;
             position: fixed;
             bottom: 10px;
@@ -241,7 +241,7 @@ padding: 0px;
         @media (max-width: 768px) {
             
             .whatsapp-widget img {
-                width: 30px;
+                width: 50px;
                 height: auto;
             }
         }
@@ -249,7 +249,7 @@ padding: 0px;
         @media (max-width: 480px) {
             
             .whatsapp-widget img {
-                width: 25px;
+                width: 40px;
                 height: auto;
             }
         }
